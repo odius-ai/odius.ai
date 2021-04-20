@@ -10,11 +10,13 @@ export const How = () => {
             <p>TLDR: We're gonna create some dope AI art.</p>
             <h2 style={{marginTop: "60px"}}>Join the AI Revolution</h2>
             <p className="main_desc" style={{marginBottom: "30px"}} >
-            We wanted to use our machine learning skills to create AI-art, but GAN models are extremely computationally expensive to train. Without spending thousands of dollars on industry leading hardware, getting higher than 128x128 resolution images can take several months to train, even on a RTX 2080 Ti. This means that not many people have the computing power needed to train such models. With time, if the launch is successful, we can acquire cutting edge GPU hardware, which will allow Odius to produce amazing high-fidelity art.       
+            We wanted to use our machine learning skills to create AI-art, but GAN models are extremely computationally expensive to train. Without spending thousands of dollars on industry leading hardware, getting higher than 128x128 resolution images can take several months to train, even on a RTX 2080 Ti. This means that not many people have the computing power needed to train such models. With time, if the launch is successful, we can acquire cutting edge GPU hardware which will allow Odius to produce amazing high-fidelity art.       
             </p>
             <p className="main_desc" style={{marginBottom: "50px"}} >
-            We hope to make a fun ecosystem that combines our passion for AI and art, made possible through the means of DeFi and NFTs. Disclaimer: Please bear in mind that investing in crypto projects is inherently risky and we make no promises that you will make money by investing in us. You could lose your entire investment. 
+            We hope to make a fun ecosystem that combines our passion for AI and art, made possible through the means of DeFi and NFTs.
             </p>
+            <p>Disclaimer: Please bear in mind that investing in crypto projects is inherently risky and we make no promises that you will make money by investing in us. You could lose your entire investment. </p>
+            <p> Contract address: 0xa49dc04d118bdf4a3471f593c1bba0c99b2187ea </p>
         </div>
     )
 }

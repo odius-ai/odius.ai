@@ -13,7 +13,7 @@ export const Main = () => {
                 <div>
                     <p className="main_desc">Take part in making art history. </p>
                 </div>
-                <a href="https://info.uniswap.org/home">
+                <a href="https://app.uniswap.org/#/swap?inputCurrency=0xa49dc04d118bdf4a3471f593c1bba0c99b2187ea">
                     <button class="button">Buy on Uniswap </button>
                 </a>
         </div>
