@@ -8,7 +8,7 @@ export const How = () => {
             Odius is an experimental AI project that aims to utilize machine learning to create unique NFTs. We love the art that is possible to create with GANs, it is truly fascinating to see beautiful works that are completely generated from a computer. 
             </p>
             <p>TLDR: We're gonna create some dope AI art.</p>
-            <h2 style={{marginTop: "60px"}}>Take Part in the AI Revolution</h2>
+            <h2 style={{marginTop: "60px"}}>Join the AI Revolution</h2>
             <p className="main_desc" style={{marginBottom: "30px"}} >
             We wanted to use our machine learning skills to create AI-art, but GAN models are extremely computationally expensive to train. Without spending thousands of dollars on industry leading hardware, getting higher than 128x128 resolution images can take several months to train, even on a RTX 2080 Ti. This means that not many people have the computing power needed to train such models. With time, if the launch is successful, we can acquire cutting edge GPU hardware, which will allow Odius to produce amazing high-fidelity art.       
             </p>

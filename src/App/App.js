@@ -18,7 +18,6 @@ export const App = () => {
                 <div className="line_faded"> </div>
                 <How />
                 <div className="line_faded"> </div>
-                <Tokenomics />
                 <div className="line_faded"> </div>
                 <Stats />
             </div>
