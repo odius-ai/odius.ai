@@ -1,0 +1,9 @@
+
+
+.card {
+    border-radius: 5px;
+    border: 0px solid #EEE;
+    text-align: center;
+    flex-basis: 20%;
+    transition: .5s;
+}

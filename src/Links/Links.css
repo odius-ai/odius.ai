@@ -1,0 +1,26 @@
+
+.links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-right: 100px;
+    opacity: 80%;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+
+.link_item{
+    transition: 0.5s;
+}
+
+.link_item:hover{
+    transform: scale(1.5);
+}
+
+@media(max-width: 500px){
+    .links{
+        display: None;
+    }
+}
