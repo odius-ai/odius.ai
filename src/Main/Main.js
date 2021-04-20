@@ -11,7 +11,7 @@ export const Main = () => {
                 </div>
                 <h1> Odius </h1>
                 <div>
-
+                    <p className="main_desc">Take part in making art history. </p>
                 </div>
                 <a href="https://info.uniswap.org/home">
                     <button class="button">Buy on Uniswap </button>
