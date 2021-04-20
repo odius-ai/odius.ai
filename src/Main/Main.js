@@ -11,8 +11,6 @@ export const Main = () => {
                 </div>
                 <h1> Odius </h1>
                 <div>
-                    <p className="main_desc">Take part in making art history. </p>
-                    <p className="main_desc">Odius is making cutting edge AI art - on the blockchain</p>
 
                 </div>
                 <a href="https://info.uniswap.org/home">
