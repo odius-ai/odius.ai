@@ -17,6 +17,9 @@ export const How = () => {
             </p>
             <p>Disclaimer: Please bear in mind that investing in crypto projects is inherently risky and we make no promises that you will make money by investing in us. You could lose your entire investment. </p>
             <p> Contract address: 0xa49dc04d118bdf4a3471f593c1bba0c99b2187ea </p>
+            <h2> Updates </h2>
+            <p align="left"> 20/04/21: Odius has launched on Uniswap  </p>
+            <p align="left"> 20/04/21: Liquidity has been added locked in Unicrypt (90% of tokens)  </p>
         </div>
     )
 }

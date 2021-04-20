@@ -16,6 +16,7 @@ export const Main = () => {
                 <a href="https://app.uniswap.org/#/swap?inputCurrency=0xa49dc04d118bdf4a3471f593c1bba0c99b2187ea">
                     <button class="button">Buy on Uniswap </button>
                 </a>
+                <p> Liquidity has been <a href="https://unicrypt.network/amm/uni/pair/0xbcfb8c20181a4a9952b693721c70fec2277967dd">locked</a> (90% of tokens) </p>
         </div>
     )
 }
