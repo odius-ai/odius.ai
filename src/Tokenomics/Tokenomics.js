@@ -11,19 +11,15 @@ export const Tokenomics = () => {
             <table className="table">
                 <tr>
                     <td>Name: </td>
-                    <td className="value">Odius.ai</td>
+                    <td className="value">odius.ai</td>
                 </tr>
                 <tr>
                     <td>Ticker: </td>
-                    <td className="value">ODI</td>
+                    <td className="value">$ODI</td>
                 </tr>
                 <tr>
                     <td>Supply: </td>
                     <td className="value">1,000,000,000,000</td>
-                </tr>
-                <tr>
-                    <td>Contract: </td>
-                    <td className="value">0xa49dc04d118bdf4a3471f593c1bba0c99b2187ea</td>
                 </tr>
             </table>
         </div>
