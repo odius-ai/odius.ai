@@ -11,20 +11,14 @@ export const Links = () => {
     return(
         <>
             <div className="links">
-                <a className="link_item" href="https://www.dextools.io/app/">
-                    <img src={dext} alt="the fuck" width="80px"/> 
+                <a className="link_item" href="https://www.dextools.io/app/uniswap/pair-explorer/0xbcfb8c20181a4a9952b693721c70fec2277967dd">
+                    <img src={dext} alt="Dext" width="80px"/> 
                 </a>
-                <a className="link_item" href="https://etherscan.io/token/0x0cf8c12c961b117e3327bc8d78077dc2c315bfb1?a=0xb682bcb015fa3a1f7b46a5eef34539a0f82d8e80">
-                    <img src={etherscan} alt="the fuck" width="40px"/> 
+                <a className="link_item" href="https://etherscan.io/token/0xa49dc04d118bdf4a3471f593c1bba0c99b2187ea">
+                    <img src={etherscan} alt="Etherscan" width="40px"/> 
                 </a>
-                <a className="link_item" href="https://twitter.com/">
-                    <img src={twitter} alt="the fuck" width="40px"/> 
-                </a>
-                <a className="link_item" href="https://telegram.org/">
-                    <img src={telegram} alt="the fuck" width="40px"/> 
-                </a>
-                <a className="link_item" href="https://www.coingecko.com/en">
-                    <img src={gecko} alt="the fuck" width="40px"/> 
+                <a className="link_item" href="https://twitter.com/odius_ai">
+                    <img src={twitter} alt="Twitter" width="40px"/> 
                 </a>
             </div> 
             <div className="line_faded"> </div>

@@ -16,22 +16,20 @@ export const Donut = () => {
             center={[50,13]}
             radius={10}
             lineWidth={30}
-            startAngle={90}
+            startAngle={200}
             segmentsStyle={{ transition: 'stroke .3s', cursor: 'pointer' }}
             paddingAngle={5}
             label={({ dataEntry }) => dataEntry.title + " " + dataEntry.percentage + "%"}
-            labelPosition={112}
+            labelPosition={120}
             labelStyle={{
                 fill: '#fff',
                 opacity: 0.75,
                 pointerEvents: 'none',
             }}
               data={[
-                { title: 'You', value: 60, color: '#a002db' },
-                { title: 'Uniswap liquidity', value: 15, color: '#7900a6' },
-                { title: 'Marketing', value: 5, color: '#59007a' },
-                { title: 'Developers', value: 15, color: '#59007a' },
-                { title: 'Hardware', value: 5, color: '#330045' },
+                { title: 'Uniswap Liquidity', value: 90, color: '#a002db' },
+                { title: 'Dev Funds', value: 8, color: '#59007a' },
+                { title: 'Hardware Funds', value: 2, color: '#59007a' },
               ]}
             />
         </div>
