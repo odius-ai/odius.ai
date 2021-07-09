@@ -6,6 +6,7 @@ import twitter from "../images/twitter.png"
 import telegram from "../images/telegram.png"
 import gecko from "../images/gecko.png"
 import etherscan from "../images/etherscan.png"
+import discord from "../images/discord.png"
 
 export const Links = () => {
     return(
@@ -19,6 +20,12 @@ export const Links = () => {
                 </a>
                 <a className="link_item" href="https://twitter.com/odius_ai">
                     <img src={twitter} alt="Twitter" width="40px"/> 
+                </a>
+                <a className="link_item" href="https://www.coingecko.com/en/coins/odius">
+                    <img src={gecko} alt="Gecko" width="40px"/> 
+                </a>
+                <a className="link_item" href="https://discord.gg/CZbQBJwS">
+                    <img src={discord} alt="Discord" width="115px" height="35px"/> 
                 </a>
             </div> 
             <div className="line_faded"> </div>
